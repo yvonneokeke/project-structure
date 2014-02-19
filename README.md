@@ -1,3 +1,3 @@
 project-structure
 =================
-Project One for CVJ 341
+Project 1 for CVJ 341
