@@ -9,11 +9,12 @@ h1,
 h2,
 h3 {
 	font-family: gill sans;
-	color: #F21B8A;
+	color: #9EE87C;
 }
 
 img {
-	border: 4px solid white
+	border: 2px solid white;
+	border-radius:20px;
 }
 
 h1 { 
@@ -67,6 +68,7 @@ nav ul li:last-child {
 .boxed {
 	border: 2px solid;
 	color: #F21B8A;
+	border-radius:25px;
 }
 
 table {

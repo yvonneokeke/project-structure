@@ -3,12 +3,13 @@ body {
 	font-family: gill sans;
 	background: #000;
 	color: #fff;
+	margin: 0.5cm
 }
 
 h1,
 h2,
 h3 {
-	font-family: gill sans
+	font-family: gill sans;
 }
 
 img {
@@ -25,31 +26,36 @@ img {
 	h2,
 	h3 {
 		font-family: georgia;
+		color: #000
 	}
 
 	h1 { 
-	font-size: 40px;
-	text-align: center;
-	padding-top: 10px;
-	color: #000
+		font-size: 40px;
+		text-align: center;
+		padding-top: 10px;
 	}
 
 	a:link {
-	color: blue
+			color: blue
+	}
+
+	ul {
+		margin: 0;
+		list-style: none;
 	}
 
 	section {
-	width:800px;
-	margin: 20px auto;
-	background-color: #6A6A6A;
-	border:2px solid;
-	border-radius:25px;
-	box-shadow: none;
-	padding: 20px 
+			width:800px;
+			margin: 20px auto;
+			background-color: #6A6A6A;
+			border:2px solid;
+			border-radius:25px;
+			box-shadow: none;
+			padding: 20px 
 	}
 
 	.boxed {
-	border: none;
-	color: none;
+			border: none;
+			color: none;
 	}
 }
